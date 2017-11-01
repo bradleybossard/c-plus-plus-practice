@@ -1,0 +1,35 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BINARIES	Makefile	/^BINARIES=bubble_sort binary_search_1 tuples pair_sort vector_sort vector_auto set multiset range_iterators$/;"	m
+CC	Makefile	/^CC=g++$/;"	m
+CFLAGS	Makefile	/^CFLAGS=-std=c++11$/;"	m
+binary_search	binary_search_1.cpp	/^int binary_search(int x, vector<int> &v) {$/;"	f
+gen	generate_subsets.cpp	/^void gen(int k) {$/;"	f
+main	binary_search_1.cpp	/^int main() {$/;"	f
+main	bitset.cpp	/^int main() {$/;"	f
+main	bubble_sort.cpp	/^int main() {$/;"	f
+main	deque.cpp	/^int main() {$/;"	f
+main	generate_subsets.cpp	/^int main() {$/;"	f
+main	map.cpp	/^int main() {$/;"	f
+main	multiset.cpp	/^int main() {$/;"	f
+main	pair_sort.cpp	/^int main() {$/;"	f
+main	priority_queue.cpp	/^int main() {$/;"	f
+main	queue.cpp	/^int main() {$/;"	f
+main	range_iterators.cpp	/^int main() {$/;"	f
+main	set.cpp	/^int main() {$/;"	f
+main	set_iterators.cpp	/^int main() {$/;"	f
+main	stack.cpp	/^int main() {$/;"	f
+main	tuples.cpp	/^int main() {$/;"	f
+main	vector_auto.cpp	/^int main() {$/;"	f
+main	vector_initial_values.cpp	/^int main() {$/;"	f
+main	vector_sort.cpp	/^int main() {$/;"	f
+n	generate_subsets.cpp	/^int n = 9;$/;"	v
+print_deque	deque.cpp	/^void print_deque(deque<int> d) {$/;"	f
+print_vector	binary_search_1.cpp	/^void print_vector(vector<int> &v) {$/;"	f
+print_vector	range_iterators.cpp	/^void print_vector(vector<int> v) {$/;"	f
+results	generate_subsets.cpp	/^vector<string> results;$/;"	v
+t	bubble_sort.cpp	/^int t[] = { 2, 6, 10, 1, 7, 3, 12, 20, 11 };$/;"	v
